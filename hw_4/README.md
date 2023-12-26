@@ -36,6 +36,6 @@
 
 Команда показала, что их метод обеспечивает более точные переводы, чем модель, обученная только на тексте. Он также может обрабатывать более длинные предложения, языки с ограниченными ресурсами и предложения с пропущенными словами.
 
-**Статья:** [VALHALLA: Visual Hallucination for Machine Translation](http://www.svcl.ucsd.edu/publications/conference/2022/valhalla/main.pdf). Yi Li,Rameswar Panda, Yoon Kim, Chun-Fu (Richard) Chen, Rogerio Feris, David Cox, Nuno Vasconcelos. UC San Diego, MIT-IBM Watson AI Lab, MIT CSAIL.
-**Веб-сайт:** http://www.svcl.ucsd.edu/projects/valhalla/
+**Статья:** [VALHALLA: Visual Hallucination for Machine Translation](http://www.svcl.ucsd.edu/publications/conference/2022/valhalla/main.pdf). Yi Li,Rameswar Panda, Yoon Kim, Chun-Fu (Richard) Chen, Rogerio Feris, David Cox, Nuno Vasconcelos. UC San Diego, MIT-IBM Watson AI Lab, MIT CSAIL. \
+**Веб-сайт:** http://www.svcl.ucsd.edu/projects/valhalla/ \
 **GitHub:** https://github.com/JerryYLi/valhalla-nmt
