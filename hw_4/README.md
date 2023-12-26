@@ -12,7 +12,7 @@
 
 ![pair_img_text](./imgs/pair_img_text.png)
 
-**Архитектура модели** \
+**Архитектура модели**
 
 ![model_architecture](./imgs/model_architecture.png)
 
