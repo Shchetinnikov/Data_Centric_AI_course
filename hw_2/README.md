@@ -57,8 +57,8 @@ $$F_{1} = \frac{1}{n} \sum_{i=1}^{n} \frac{2 \lvert y_{i} \cap \hat{y_{i}}\rvert
 - обратиться к нескольким разметчикам, сравнить согласованность результатов;
 - проверить на наличие мусора вручную. 
 
-<img src='attachments/test_frame.png' style='width:500'></img>
-<img src='attachments/annot_frame.png' style='width:500'></img>
+<img src='imgs/test_frame.png' style='width:500'></img>
+<img src='imgs/annot_frame.png' style='width:500'></img>
 
 Проведем только численный анализ меток в тестовом наборе и в наборе, полученном от разметчика.
 
